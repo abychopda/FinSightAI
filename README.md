@@ -26,6 +26,15 @@ FinsightAI is an AI-powered financial insights platform built as a full-stack, c
 
 ---
 
+## Team & contributions
+
+Built as a team project for the UTS NLP group ([upstream repo](https://github.com/UtsNlpGroup/FinSightAI)).
+
+- **Abhishek Chopda ([@abychopda](https://github.com/abychopda))** — the 10-K RAG pipeline: HTML parsing of SEC filings with section-aware extraction (Items 1, 1A, 7), chunking, embeddings, retrieval and grounded QA, plus ChromaDB Cloud support. This work now lives in [`RAG-Ingestion/`](RAG-Ingestion/).
+- **[@data-davey](https://github.com/data-davey)** and **[@Sebas102507](https://github.com/Sebas102507)** — see the [contributors graph](https://github.com/UtsNlpGroup/FinSightAI/graphs/contributors).
+
+---
+
 ## Table of Contents
 
 1. [Architecture](#architecture)
